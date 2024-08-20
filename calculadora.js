@@ -17,6 +17,6 @@ function calcular() {
   if (result) {
     document.getElementById("resultado").innerHTML = eval(result);
   } else {
-    document.getElementById("resultado").innerHTML = "Nada";
+    document.getElementById("resultado").innerHTML = "Nothig";
   }
 }
